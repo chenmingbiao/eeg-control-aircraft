@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\桌面\graduation_project\graduation_project\bin\Debug\graduation_project.exe
+C:\Documents and Settings\Administrator\桌面\graduation_project\graduation_project\bin\Debug\graduation_project.pdb
+C:\Documents and Settings\Administrator\桌面\graduation_project\graduation_project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\graduation_project\graduation_project\obj\Debug\graduation_project.Form1.resources
+C:\Documents and Settings\Administrator\桌面\graduation_project\graduation_project\obj\Debug\graduation_project.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\graduation_project\graduation_project\obj\Debug\graduation_project.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\graduation_project\graduation_project\obj\Debug\graduation_project.exe
+C:\Documents and Settings\Administrator\桌面\graduation_project\graduation_project\obj\Debug\graduation_project.pdb
+C:\Documents and Settings\Administrator\桌面\graduation_project\graduation_project\obj\Debug\graduation_project.main.resources

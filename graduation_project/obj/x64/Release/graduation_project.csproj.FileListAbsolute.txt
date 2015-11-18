@@ -1,0 +1,11 @@
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\obj\x64\Release\graduation_project.csprojResolveAssemblyReference.cache
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\obj\x64\Release\graduation_project.login.resources
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\obj\x64\Release\graduation_project.main.resources
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\obj\x64\Release\graduation_project.Properties.Resources.resources
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\obj\x64\Release\graduation_project.csproj.GenerateResource.Cache
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\bin\x64\Release\graduation_project.exe.config
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\bin\x64\Release\graduation_project.exe
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\bin\x64\Release\graduation_project.pdb
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\obj\x64\Release\graduation_project.exe
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\obj\x64\Release\graduation_project.pdb
+C:\Users\MiBiChan\Desktop\graduation_project\graduation_project\bin\x64\Release\DotNetEmotivSDK.dll
